@@ -46,6 +46,5 @@ export default {
   getName: getName,
   getHobbies: getHobbies,
   getImage: callCatAPI,
-  getRandomDistance: getRandomNumber(1, 20),
-  getHobbies: getHobbies
+  getRandomDistance: getRandomNumber(1, 20)
 };
